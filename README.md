@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://selim1337.github.io" target="_blank">
         <img
-            src="https://readme-typing-svg.herokuapp.com/?size=15&width=280&lines=int%20main()+{cout+%3C%3C+%27godless%27}"
+            src="https://readme-typing-svg.herokuapp.com/?size=15&width=280&lines={cout+%3C%3C+%27testterbirucucyedi%27}"
             alt="l33t community"
         />
     </a>
