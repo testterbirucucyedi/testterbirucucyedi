@@ -12,4 +12,3 @@
         alt="1337"
     />
 </p> 
-<h3>Updated 1 minute ago</h3>
